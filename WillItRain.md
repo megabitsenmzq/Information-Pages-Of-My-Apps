@@ -52,7 +52,7 @@ We collect several different types of information for various purposes to provid
 
 #### Usage Data
 
-When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").
+When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, unique device identifiers and other diagnostic data ("Usage Data").
 
 ## Use of Data
 
