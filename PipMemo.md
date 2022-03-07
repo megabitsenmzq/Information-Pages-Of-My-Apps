@@ -2,7 +2,7 @@
 
 Effective date: April 02, 2020
 
-PipMemo ("us", "we", or "our") operates the PipMemo mobile application (the "Service").
+PipMemo/PipReader ("us", "we", or "our") operates the PipMemo/PipReader mobile application (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
