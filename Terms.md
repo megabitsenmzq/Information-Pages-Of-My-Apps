@@ -1,6 +1,6 @@
 # Terms and Conditions
 ## Terms and Conditions (“Terms”)
-Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the the apps belong to it such as FishScreenReader (the “Service”) operated by Jinyu Meng (“us”, “we”, or “our”).
+Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the the apps belong to it such as SLIT_STUDIO (the “Service”) operated by Jinyu Meng (“us”, “we”, or “our”).
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.
 
