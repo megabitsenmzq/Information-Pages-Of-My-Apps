@@ -1,41 +1,47 @@
-# Privacy Details
+**Privacy Policy**
 
-Effective date: January 01, 2025
+This privacy policy applies to the SLIT_STUDIO app (hereby referred to as "Application") for mobile devices that was created by Jinyu Meng (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
-Jinyu Meng ("us", "we", or "our") operates the SLIT_STUDIO mobile application (the "Service").
+**What information does the Application obtain and how is it used?**
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+The Application does not obtain any information when you download and use it. Registration is not required to use the Application.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+**Does the Application collect precise real time location information of the device?**
 
-## Information Collection And Use
+This Application does not collect precise information about the location of your mobile device.
 
-We collect several different types of information for various purposes to provide and improve our Service to you.
+**Do third parties see and/or have access to information obtained by the Application?**
 
-### Types of Data Collected
+Since the Application does not collect any information, no data is shared with third parties.
 
-#### Usage Data
+**What are my opt-out rights?**
 
-When you access the Service by or through a mobile device, we may collect certain information automatically through Apple's service. Including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-## Links To Other Sites
+**Children**
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+The Application is not used to knowingly solicit data from or market to children under the age of 13.
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (megabitsenmzq@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
 
-We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+**Security**
 
-## Changes To This Privacy Policy
+The Service Provider is concerned about safeguarding the confidentiality of your information. However, since the Application does not collect any information, there is no risk of your data being accessed by unauthorized individuals.
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+**Changes**
 
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to their Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+This privacy policy is effective as of 2025-01-01
 
-## Contact Us
+**Your Consent**
 
-If you have any questions about this Privacy Policy, please contact us:
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by the Service Provider.
 
-By email: megabitsenmzq@gmail.com
+**Contact Us**
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at megabitsenmzq@gmail.com.
+
+* * *
+
+This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
