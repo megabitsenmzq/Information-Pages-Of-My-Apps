@@ -1,69 +1,58 @@
 **Privacy Policy**
 
-This privacy policy applies to the Blossom Launcher app (hereby referred to as "Application") for desktop devices that was created by Jinyu Meng (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy is applicable to the Blossom Launcher app (hereinafter referred to as "Application") for devices, which was developed by Jinyu Meng (hereinafter referred to as "Service Provider") as a a Free service. This service is provided "AS IS".
 
-**Information Collection and Use**
+**What information does the Application obtain and how is it used?**  
+**User Provided Information**
 
-The Application collects information when you download and use it. This information may include information such as
+The Application acquires the information you supply when you download and install the Application.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your desktop device
+**Automatically Collected Information**
 
-The Application does not gather precise information about the location of your desktop device.
+In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile operating system, and information about the way you use the Application.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+**Do third parties see and/or have access to information obtained by the Application?**
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+We use the privacy-friendly analytics service TelemetryDeck (provider: TelemetryDeck GmbH, Von-der-Tann-Str. 54, 86159 Augsburg, Germany) to analyze usage data. The use is based on Art. 6 para. 1 lit. b GDPR, as we require reliable and efficient tools for collecting app usage data in order to fulfill the contract with you, our customer.
+What data is transferred?
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+The data processed by TelemetryDeck is completely anonymized and does not allow any conclusions to be drawn about personal information.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+The following data is collected, among other things:
 
-**Third Party Access**
+    an anonymized, untraceable user ID (per app installation),
+    actions defined by the app publisher (e.g., "app launched," "settings opened"),
+    a rounded timestamp (to the nearest hour),
+    device metadata (e.g., system version, app version, device type),
+    additional metadata defined by the app publisher (e.g., "number of items in the database").
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+What is not stored?
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+    No IP addresses (not in logs, not in the database),
+    No cookies or tracking technologies,
+    no persistent identifiers that could be traced back to individuals.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+The source code of the TelemetryDeck SDK is completely open source and available on GitHub: https://github.com/TelemetryDeck
 
-**Opt-Out Rights**
+Further information on the exact data processing by TelemetryDeck can be found at: https://telemetrydeck.com/privacy and at https://telemetrydeck.com/docs/guides/privacy-faq/
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your desktop device or via the desktop application marketplace or network.
+**What are my opt-out rights?**
 
-**Data Retention Policy**
-
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at megabitsenmzq@gmail.com and they will respond in a reasonable time.
-
-**Children**
-
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (megabitsenmzq@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
-
-**Security**
-
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your device.
 
 **Changes**
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-09-14
+This privacy policy is effective as of 2025-10-27
 
 **Your Consent**
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
 
-**Contact Us**
+**Contact us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at megabitsenmzq@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at feedback@megabits.xyz.
 
 * * *
 
